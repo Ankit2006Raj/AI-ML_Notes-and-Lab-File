@@ -46,17 +46,6 @@ Classification algorithms
 
 Practical lab experiments as per standard university syllabus
 
-🛠️ Technologies Used
-
-Python
-
-NumPy
-
-Pandas
-
-Matplotlib (basic data visualization)
-
-Scikit-learn (machine learning experiments)
 
 🎯 Purpose of This Repository
 
