@@ -24,7 +24,6 @@ Unsupervised Learning
 
 Reinforcement Learning
 
-Data Preprocessing Techniques
 
 Model Training and Evaluation
 
